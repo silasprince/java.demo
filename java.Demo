@@ -1,0 +1,7 @@
+public class dem0
+{
+public static void main(Srting[]args)
+{
+float f=9;
+System.out.println(f);
+}}
